@@ -352,7 +352,7 @@ public class SinglyLinkedList {
     // list.printList();
 
     /*
-     * calling merge method
+     * //calling merge method
      * SinglyLinkedList list1 = new SinglyLinkedList();
      * list1.insertNodeAtEnd(1);
      * list1.insertNodeAtEnd(3);
