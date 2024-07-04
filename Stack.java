@@ -9,9 +9,15 @@ public class Stack {
     int data;
     ListNode next;
 
+    // Consructor
     ListNode(int data) {
       this.data = data;
     }
+  }
+
+  public Stack() {
+    top = null;
+    length = 0;
   }
 
   public int length() {
@@ -56,7 +62,7 @@ public class Stack {
     stack.pop();
     stack.pop();
     stack.pop();
-    System.out.println(stack.peek());
+    System.out.println(" Top of the stack is " + stack.peek());
 
   }
 }
