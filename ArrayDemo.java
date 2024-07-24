@@ -20,9 +20,9 @@ public class ArrayDemo {
      * // System.out.println(arr[0]);
      */
 
-    int[] arr = { 1, 2, 3, 4, 5 };
-    int[] Arr = { 1, 0, 2, 0, 3, 4, 5 };
-    int[] newArr = { 1, 3, 4, 6, 8, 2, 7 };
+    // int[] arr = { 1, 2, 3, 4, 5 };
+    // int[] Arr = { 1, 0, 2, 0, 3, 4, 5 };
+    // int[] newArr = { 1, 3, 4, 6, 8, 2, 7 };
     // arr[4] = 7;// updating elements of array
     // arr[5] = 9; //output will Exception in thread "main"
     // java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
